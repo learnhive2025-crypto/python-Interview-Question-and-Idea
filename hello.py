@@ -1,1 +1,2 @@
-print("hsgfdsjf")
+# whats is python?
+print("")
