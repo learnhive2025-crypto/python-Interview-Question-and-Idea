@@ -1,2 +1,0 @@
-# whats is python?
-print("")
